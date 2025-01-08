@@ -1,0 +1,2587 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+section.home-decor-sec-5-mobile-res {
+    display: none;
+}
+section.logos-mobile-responsive {
+    display: none;
+}
+/* start black header */
+
+section {
+    width: 100%;
+    float: left;
+}
+
+section.black-header {
+    background-color: black;
+    color: white;
+}
+
+.top-main {
+    display: flex;
+    gap: 24px;
+    justify-content: right;
+    margin-right: 10%;
+    padding: 9px 0px;
+}
+
+p.top-p-1 {
+    font-family: Kanit;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-bottom: 0px;
+}
+
+p.top-p-2 {
+    font-family: Kanit;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-bottom: 0px;
+}
+
+/* end black header */
+
+
+/*start home-decor-sec-1*/
+
+.navbar-light .navbar-toggler-icon {
+    filter: invert(0);
+}
+
+.home-decor-sec-1-ryt-heading-4 p {
+    font-family: Kanit;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+span.sec-1-span-2 {
+    font-family: Kanit;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.home-decor-sec-1-ryt-heading-4 {
+    text-align: center;
+}
+
+.row.row-dtr {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-decor-sec-1-ryt-heading-4 h4 {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #8D5E2F;
+}
+
+.home-decor-sec-1-ryt-heading-4 h4 span {
+    display: block;
+}
+
+section.home-decor-sec-1 {
+    background-color: #F8F9FA;
+    background-image: url('../images/laptop-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.top-laptop-img img {
+    width: 100%;
+}
+
+
+
+.home-decor-sec-1-left-btn {
+    padding-top: 40px;
+}
+
+button#header-btn-top {
+    font-weight: 500;
+    background-color: #8D5E2F;
+    font-family: Kanit;
+    font-size: 20px;
+    border: none;
+    border-radius: 0px;
+    padding: 8px 24px 8px 24px;
+    gap: 10px;
+    color: #fff;
+}
+
+.home-decor-sec-1-ryt-img img {
+    width: 100%;
+}
+
+.home-decor-sec-1-left-btn {
+    background: #F3F5FF;
+    padding: 12px 24px 12px 12px;
+    max-width: fit-content;
+}
+
+button#header-btn-started {
+    font-family: kanit;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+
+}
+
+/*end home-decor-sec-1*/
+
+
+
+/*start carousel*/
+p.carousels-p {
+    font-family: Kanit;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+h2.carousel-heading {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    color: #242525;
+    margin-bottom: 40px;
+}
+
+.items-main {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.owl-dots {
+    text-align: center;
+    padding-top: 15px;
+}
+
+section.carousels {
+    padding: 60px 0px 60px 0px;
+}
+
+.owl-dots button.owl-dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white !important;
+    margin: 0 3px;
+    border: 1px solid black !important;
+}
+
+.owl-dots button.owl-dot.active {
+    background-color: black !important;
+
+}
+
+.owl-dots button.owl-dot:focus {
+    outline: none;
+}
+
+.carousels owl-carousel .item img {
+    width: 100%;
+    height: auto;
+}
+
+.item-image {
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+p.item-p-1 {
+    font-family: Kanit;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 12px;
+}
+
+h6.item-h6 {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+p.item-p-2 {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 0px;
+
+}
+
+/*end carousel*/
+
+
+/*start home-decor-sec-3*/
+.home-decor-sec-3-left-imgs img {
+    width: 100%;
+}
+
+.row.sec-3 {
+    align-items: center;
+}
+
+h3.heading-3-sec-3 {
+    color: #242525;
+    font-family: Kanit;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 47px;
+}
+
+.home-decor-sec-3-ryt-txts-heading-3 p {
+    font-family: Kanit;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+p.para-black-sec-3 {
+    color: #242525;
+    font-family: Kanit;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+p.para-gray-sec-3 {
+    font-family: kanit;
+    font-size: 18px;
+    font-weight: 400;
+    color: #242525;
+
+
+}
+
+section.home-decor-sec-3 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: #F2F5F5;
+}
+
+p.para-gray {
+    color: #666666;
+    font-family: Kanit;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+/*end home-decor-sec-3*/
+
+
+
+/*start sec-4*/
+section.home-decor-sec-4 {
+    background-image: url('../images/sec-4-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    padding-top: 72px;
+}
+
+.tec-imgs-sec-4-ryt::before {
+    content: url('../images/tec-sec-4.svg');
+    position: absolute;
+    top: 110px;
+    right: 416px;
+}
+
+h4.heading-4-sec-4 {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.tec-sec-4-p p {
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.99px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.left-sec-4-main {
+    display: flex;
+    gap: 32px;
+    text-align: center;
+}
+
+/*end sec-4*/
+
+
+
+/*start home-decor-sec-5*/
+.sec-5-img-new img {
+    width: 70%;
+    /* height: 398px; */
+}
+
+h4.sec-5-heading {
+    text-align: center;
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    margin-bottom: 20px;
+}
+
+p.sec-5-p-top {
+    font-family: Kanit;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.list-num {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+p.sec-10-p-bottom {
+    text-align: center;
+    font-family: Kanit;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 0px;
+    color: #242525;
+}
+
+p.sec-10-p {
+    font-family: kanit;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.5px;
+    text-align: center;
+    color: #242525;
+}
+
+.sec-5-img img {
+    width: 100%;
+}
+
+p.sec-10-p {
+    font-family: kanit;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.5px;
+    text-align: center;
+    color: #242525;
+    margin-bottom: 48px;
+}
+
+ul.sec-5-ryt-list li {
+    list-style-type: none;
+    font-family: Kanit;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 27px;
+    text-align: left;
+}
+
+ul.sec-5-left-list li {
+    list-style-type: none;
+    font-family: Kanit;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 27px;
+    text-align: right;
+}
+
+.row.sec-5 {
+    margin-bottom: 60px;
+}
+
+ul.sec-5-left-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 0px;
+}
+
+ul.sec-5-ryt-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 0px;
+}
+
+section.home-decor-sec-5 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/*end home-decor-sec-5*/
+
+
+
+/*start beauty*/
+.beauty-sec-left h4 {
+    font-family: Kanit;
+    font-size: 33px;
+    font-weight: 400;
+    line-height: 55px;
+    margin-bottom: 0px;
+}
+
+section.beauty_personal-care {
+    background: #242525;
+    color: white;
+    padding: 40px 0px 40px 0px;
+}
+
+.beauty-sec-left p {
+    font-family: Kanit;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 0px;
+}
+
+.row.furniture {
+    display: flex;
+    align-items: center;
+}
+
+/*end beauty*/
+
+/*start home-decor-sec-7*/
+.home-decor-sec-7-left-imgs img {
+    width: 100%;
+}
+
+section.home-decor-sec-7 {
+    padding: 80px 0px 80px 0px;
+}
+
+h3.heading-3-sec-7 {
+    color: #242525;
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+p.para-black-sec-7 {
+    color: #242525;
+    font-family: Kanit;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+}
+
+p.para-gray-sec-7 {
+    color: #666666;
+    font-family: Kanit;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+}
+
+button#header-btn-started-2nd {
+    padding: 12px 40px 12px 40px;
+    gap: 10px;
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29.9px;
+    text-align: center;
+    background-color: #8D5E2F;
+    color: white;
+}
+
+.row.sec-7 {
+    align-items: center;
+}
+
+/*end home-decor-sec-7*/
+
+
+
+/*start home-decor-sec-8*/
+.card-box {
+    padding: 17px;
+    text-align: center;
+    box-shadow: 0 0 10px rgb(174 179 186);
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+.row.secnd-cards {
+    margin-top: 40px;
+}
+
+p.para-gray-sec-cards {
+    font-family: Kanit;
+    margin-bottom: 0px;
+    color: #242525;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 22.5px;
+    text-align: center;
+    min-height: 270px;
+}
+
+.card-img {
+    padding-bottom: 24px;
+}
+
+.card-h-5 {
+    padding-bottom: 16px;
+}
+
+h5.heading-5 {
+    font-family: kanit;
+    margin-bottom: 0px;
+    color: #242525;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    min-height: 56px;
+}
+
+.home-decor-sec-8-top-heading-4 {
+    text-align: center;
+}
+
+.card-para p.para-gray {
+    max-width: 315px;
+    margin: auto;
+}
+
+h4.heading-4 {
+    font-family: kanit;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+h4.heading-4 {
+    font-family: kanit;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.card-img-2 {
+    margin-bottom: 30px;
+}
+
+.card-img-2 img {
+    width: 100%;
+}
+
+
+p.why {
+    font-family: kanit;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    margin-bottom: 0px;
+}
+
+section.home-decor-sec-8 {
+    background-image: url('../images/black\ bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: white;
+}
+
+h4.heading-4-sec-8 {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    color: #EABF7C;
+
+}
+
+p.why-sec-8 {
+    font-family: Kanit;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 36px;
+    color: white;
+    margin-bottom: 8px;
+}
+
+/*end home-decor-sec-8*/
+
+
+
+
+/*start beauty_personal-care-2*/
+section.beauty_personal-care-2 {
+    background: #8D5E2F;
+    color: white;
+    padding: 40px 0px 40px 0px;
+}
+
+button#header-btn-beauty-2 {
+    font-weight: 500;
+    font-family: Kanit;
+    font-size: 20px;
+    background: #242525;
+    border: none;
+    border-radius: 0px;
+}
+
+.row.beauty-2 {
+    display: flex;
+    align-items: center;
+}
+
+.beauty-2-sec-left h4 {
+    font-family: Kanit;
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 55px;
+
+}
+
+button#header-btn-started-3rd {
+    color: white;
+    padding: 12px 40px 12px 40px;
+    gap: 10px;
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29.9px;
+    background-color: #242525;
+
+}
+
+.beauty-2-sec-left p {
+    font-family: Kanit;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+/* end beauty_personal-care-2*/
+
+
+
+/*start home-decor-sec-10*/
+.home-decor-sec-10-left-img {
+    display: flex;
+    align-items: flex-end;
+    height: 100%;
+}
+
+p.para-2-sec-10-decor {
+    font-family: Kanit;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+h4.haeding-4-sec-10 {
+    font-family: Kanit;
+    font-size: 42px;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+p.para-sec-10-decor {
+    font-family: Kanit;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.home-decor-sec-10-right-col-1-img img {
+    border-radius: 31px;
+    padding: 10px;
+    background: #8D5E2F;
+}
+
+p.why-sec-10 {
+    font-family: kanit;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    margin-bottom: 0px;
+}
+
+.home-decor-sec-10-left-img img {
+    width: 100%;
+}
+
+section.home-decor-sec-10 {
+    padding-top: 100px;
+}
+
+button#header-btn-started-sec-10 {
+    font-family: kanit;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    border: 1px solid white;
+    background-color: #67B24D;
+    color: white;
+    border-radius: 46px;
+    padding: 20px 32px 20px 32px;
+    line-height: 16px;
+}
+
+h4.heading-4-sec-10 {
+    font-family: kanit;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 64px;
+}
+
+.row.sec-10-row-1 {
+    margin-bottom: 40px;
+}
+
+.home-decor-sec-10-right-col-1 {
+    text-align: center;
+    padding: 24px;
+    position: relative;
+    margin-bottom: 20px;
+    background: #FEF2F2;
+}
+
+.tick-img img {
+    position: absolute;
+    top: 9px;
+    left: 11px;
+}
+
+.home-decor-sec-10-right-col-1-para p {
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-bottom: 0px;
+    min-height: 75px;
+}
+
+.home-decor-sec-10-right-col-1-img img {
+    margin-bottom: 8px;
+    width: 64px;
+}
+
+.home-decor-sec-10-ryt-btn {
+    margin-top: 40px;
+}
+
+.home-decor-sec-10-ryt-txts-para-black {
+    margin-top: 16px;
+}
+
+section.home-decor-sec-11 {
+    background-image: url('../images/black\ bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: white;
+}
+
+h4.heading-4-sec-11 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    color: #EABF7C;
+
+}
+
+p.why-sec-11 {
+    font-family: Kanit;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 36px;
+    color: white;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+/*end home-decor-sec-10*/
+
+
+
+
+
+/*start home-decor-sec-13*/
+.row.sec-13-1st-row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h4.heading-4-sec-13 {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: black;
+    margin-bottom: 60px;
+}
+
+.row.sec-13-2nd-row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row.sec-13-2nd-row {
+    margin-top: 40px;
+}
+
+section.home-decor-sec-13 {
+    /* background-color: #EDFBF1; */
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background-color: white;
+}
+
+.card-box-sec-13 {
+    padding: 17px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(174 179 186);
+    background-color: white;
+    margin-bottom: 40px;
+    position: relative;
+    z-index: 2;
+    min-height: 361px;
+}
+
+.number-container {
+    position: relative;
+}
+
+.number {
+    color: white;
+    -webkit-text-stroke: 2px #8D5E2F;
+    font-family: kanit;
+    font-size: 189px;
+    font-weight: 800;
+    text-align: center;
+    position: absolute;
+    left: -84px;
+    bottom: -219px;
+    z-index: 1;
+}
+
+/*end home-decor-sec-13*/
+
+
+
+/*start logos*/
+
+section.logos {
+    background: #F2F5F7;
+    padding: 80px 0px 80px 0px;
+}
+
+p.sec-logos-p {
+    font-family: Kanit;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #242525;
+    margin-bottom: 8px;
+}
+
+h4.sec-logos-top-h4 {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    color: #242525;
+}
+
+.item.first-carousels {
+    background-color: white;
+    border-radius: 5px;
+    width: 100%;
+    padding: 37px;
+    min-width: 212px;
+    display: flex;
+    max-height: 107px;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-imgs {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.logos-top-para {
+    margin-bottom: 48px;
+}
+
+.row.logos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*end logos*/
+
+
+
+
+/*start ecomm-counter*/
+.ecommerce-platform-btn-main-counter {
+    text-align: center;
+    margin-top: 32px;
+}
+
+.counter-count::after {
+    content: '+';
+    margin-left: 5px;
+    font-size: 48px;
+    color: #EABF7C;
+}
+
+h4.counter-head-4 {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    color: #EABF7C;
+    margin-bottom: 0px;
+}
+
+.ecomm-counter-top-para {
+    margin-bottom: 24px;
+}
+
+section.ecomm-counter {
+    background: #242525;
+    padding: 40px 0px 40px 0px;
+}
+
+p.counter-para {
+    font-family: Kanit;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+}
+
+p.counter-count {
+    color: #EABF7C;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 72px;
+    text-align: center;
+}
+
+p.counter-count-percentages {
+    color: #EABF7C;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 72px;
+    text-align: center;
+}
+
+p.counter-count-k {
+    color: #EABF7C;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 72px;
+    text-align: center;
+}
+
+.counter-count-percentages::after {
+    content: '%';
+    margin-left: 5px;
+    font-size: 48px;
+    color: #EABF7C;
+}
+
+.counter-count-k::after {
+    content: 'K+';
+    margin-left: 5px;
+    font-size: 48px;
+    color: #EABF7C;
+}
+
+.count-up h3 {
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+}
+
+button#header-btn-started-2nd {
+    padding: 12px 40px 12px 40px;
+    gap: 10px;
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29.9px;
+    text-align: center;
+    background-color: #8D5E2F;
+    color: white;
+}
+
+/*end ecomm-counter*/
+
+
+
+/*start sec-16*/
+/* Initial arrow pointing down */
+.accordion-arrow {
+    transition: transform 0.3s ease;
+    transform: rotate(0deg);
+}
+
+/* Rotate arrow up when accordion is expanded */
+.collapse.show+.card-body .accordion-arrow,
+.card-header .btn[aria-expanded="true"] .accordion-arrow {
+    transform: rotate(90deg);
+}
+
+h4.sec-16-heading-4 {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    color: #242525;
+    margin-bottom: 0px;
+}
+
+.ecomm-sec-16-top-heading-4 h4 {
+    margin-bottom: 40px;
+}
+
+section.ecomm-sec-16 {
+    padding: 80px 0px 80px 0px;
+}
+
+.card-link:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.col-lg-9.sec-16-accordions {
+    margin: auto;
+}
+
+
+.accordion>.card>.card-header {
+    margin-bottom: -1px;
+    border-bottom: 1px solid #D6D6D6
+}
+
+.card {
+    position: relative;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    background-color: #fff;
+}
+
+
+.card-link:hover {
+    text-decoration: none !important;
+}
+
+
+.accordion .card-header button {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    text-align: left;
+    color: black;
+    gap: 15px;
+}
+
+.btn-link:hover {
+    color: #0056b3;
+    text-decoration: none !important;
+    background-color: white;
+}
+
+.accordion .card {
+    border: none;
+}
+
+
+
+.accordion>.card>.card-header {
+    background-color: white;
+}
+
+button.btn.btn-link {
+    font-family: Kanit;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #242525;
+    text-transform: capitalize;
+}
+
+.btn-link {
+    color: none;
+    text-decoration: none !important;
+}
+
+button.btn.btn-link.collapsed {
+    border-bottom: 1px solid #ddd;
+
+}
+
+button.btn.btn-link {
+    border-bottom: 1px solid #ddd;
+
+}
+
+/*end sec-16*/
+
+
+
+/*start ecommerce-platform*/
+section.ecommerce-platform {
+    background: #F2F5F7;
+    padding: 40px 0px 40px 0px;
+}
+
+.ecommerce-platform-main {
+    text-align: center;
+}
+
+span.ecommerce-platform-btns {
+    color: white;
+    padding: 12px 40px 12px 40px;
+    gap: 10px;
+    font-family: Kanit;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29.9px;
+    background-color: #8D5E2F;
+}
+
+.ecommerce-platform-btn-main {
+    margin-top: 40px;
+}
+
+.ecommerce-platform-h4 h4 {
+    font-family: Kanit;
+    font-size: 48px;
+    font-weight: 600;
+    color: #242525;
+    margin-bottom: 0px;
+}
+
+.ecommerce-platform-para-1 p {
+    font-family: Kanit;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    color: #242525;
+    margin-bottom: 0px;
+}
+
+/*end ecommerce-platform*/
+
+
+
+
+
+/*start sec-18*/
+
+ul.footer-list li {
+    list-style-type: none;
+}
+
+ul.footer-list-social {
+    list-style-type: none;
+    display: flex;
+    gap: 17px;
+}
+
+.footer-main {
+    text-align: left;
+}
+
+.img-txt {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+
+
+.sec-18-main {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.footer-heading p {
+    font-family: kanit;
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    line-height: 47.09px;
+    text-align: left;
+}
+
+ul.footer-list li {
+    font-family: kanit;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+a.footer-input-btn {
+    background: #8D5E2F;
+    padding: 10px 10px 10px 10px;
+    color: white;
+}
+
+input.footer-input {
+    border: none;
+    padding: 10px;
+}
+
+.footer-input-btn {
+    margin: 28px 0px 28px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p.footer-para-subscribe {
+    margin-bottom: 0px;
+}
+
+.top-txt p {
+    font-family: kanit;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+section.home-decor-sec-18 {
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: #242525;
+}
+
+
+
+
+.footer-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.footer-list li {
+    margin-bottom: 10px;
+}
+
+.footer-list-social {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.footer-list-social li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/*end sec-18*/
+
+
+/*start sec-19*/
+section.ecomm-sec-19 {
+    color: white;
+    /* border-top: 1px solid white; */
+    background: #8D5E2F;
+}
+
+p.sec-19-p-1 {
+    font-family: kanit;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.sec-19-last-footer {
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+}
+
+p.sec-19-p-2 {
+    margin-bottom: 0px;
+}
+
+/*end sec-19*/
+
+
+
+@media (max-width: 1366px) {
+    section.home-decor-sec-5-mobile-res {
+        display: none;
+    }
+
+    h2.carousel-heading {
+        font-size: 46px;
+    }
+
+    h3.heading-3 {
+        font-size: 46px;
+    }
+
+    h4.heading-4-sec-4 {
+        font-size: 46px;
+
+    }
+
+    h4.sec-5-heading {
+
+        font-size: 46px;
+
+    }
+
+    h3.heading-3-sec-7 {
+        font-size: 46px;
+    }
+
+    h4.heading-4-sec-8 {
+        font-size: 46px;
+
+    }
+
+    h4.heading-4-sec-13 {
+        font-size: 46px;
+
+    }
+
+    h4.sec-logos-top-h4 {
+        font-size: 46px;
+    }
+
+    h4.counter-head-4 {
+        font-size: 46px;
+    }
+
+    p.counter-count {
+        font-size: 46px;
+    }
+
+    h4.sec-16-heading-4 {
+        font-size: 46px;
+    }
+
+    .ecommerce-platform-h4 h4 {
+        font-size: 46px;
+    }
+
+    .footer-heading p {
+        font-weight: 600;
+    }
+
+    .top-txt p {
+
+        font-weight: 600;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 h4 {
+        font-size: 46px;
+
+    }
+
+}
+
+@media (max-width: 1299px) {
+    section.home-decor-sec-5-mobile-res {
+        display: none;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 h4 {
+        font-size: 40px;
+    }
+
+    h2.carousel-heading {
+        font-size: 43px;
+    }
+
+    h3.heading-3 {
+        font-size: 43px;
+    }
+
+    h4.heading-4-sec-4 {
+        font-size: 43px;
+
+    }
+
+    h4.sec-5-heading {
+
+        font-size: 43px;
+
+    }
+
+    h3.heading-3-sec-7 {
+        font-size: 43px;
+    }
+
+    h4.heading-4-sec-8 {
+        font-size: 43px;
+
+    }
+
+    h4.heading-4-sec-13 {
+        font-size: 43px;
+
+    }
+
+    h4.sec-logos-top-h4 {
+        font-size: 43px;
+    }
+
+    h4.counter-head-4 {
+        font-size: 43px;
+    }
+
+    p.counter-count {
+        font-size: 43px;
+    }
+
+    h4.sec-16-heading-4 {
+        font-size: 43px;
+    }
+
+    .ecommerce-platform-h4 h4 {
+        font-size: 43px;
+    }
+
+    p.sec-5-p-top {
+        font-size: 21px;
+    }
+
+    p.sec-10-p-bottom {
+        font-size: 21px;
+    }
+
+    .beauty-sec-left p {
+        font-size: 25px;
+    }
+
+    h5.heading-5 {
+        font-size: 25px;
+        font-weight: 500;
+    }
+
+    p.para-gray-sec-cards {
+        font-size: 17px;
+    }
+
+    .beauty-2-sec-left h4 {
+        font-size: 43px;
+    }
+
+    .beauty-2-sec-left p {
+        font-size: 23px;
+    }
+
+    h4.haeding-4-sec-10 {
+        font-size: 40px;
+    }
+
+    h4.heading-4-sec-11 {
+        font-size: 46px;
+    }
+
+    button.btn.btn-link {
+        font-size: 22px;
+        line-height: 26px;
+    }
+}
+
+@media (max-width: 1199px) {
+    section.home-decor-sec-5-mobile-res {
+        display: none;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 h4 {
+        font-size: 39px;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 p {
+        font-size: 26px;
+    }
+
+    h2.carousel-heading {
+        font-size: 40px;
+    }
+
+    p.carousels-p {
+        font-size: 34px;
+    }
+
+    p.item-p-1 {
+        font-size: 14px;
+    }
+
+    h6.item-h6 {
+        font-size: 15px;
+
+    }
+
+    p.item-p-2 {
+        font-size: 14px;
+
+    }
+
+    h3.heading-3 {
+        font-size: 40px;
+    }
+
+    .home-decor-sec-3-ryt-txts-heading-3 p {
+        font-size: 27px;
+
+    }
+
+    p.para-black-sec-3 {
+        font-size: 16px;
+
+    }
+
+    p.para-gray-sec-3 {
+        font-size: 16px;
+    }
+
+    section.home-decor-sec-5 {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    h4.sec-5-heading {
+        font-size: 40px;
+    }
+
+    p.sec-5-p-top {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    p.sec-10-p-bottom {
+        font-size: 20px;
+    }
+
+    .beauty-sec-left h4 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+
+    .beauty-sec-left p {
+        font-size: 21px;
+    }
+
+    h3.heading-3-sec-7 {
+        font-size: 29px;
+    }
+
+    p.para-black-sec-7 {
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    p.para-gray-sec-7 {
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    h4.heading-4-sec-8 {
+        font-size: 40px;
+    }
+
+    h5.heading-5 {
+        font-size: 17px;
+        font-weight: 500;
+        min-height: 28px;
+    }
+
+    p.para-gray-sec-cards {
+        font-size: 15px;
+        min-height: 294px;
+    }
+
+    .beauty-2-sec-left h4 {
+        font-size: 37px;
+        margin-bottom: 0px;
+    }
+
+    h4.haeding-4-sec-10 {
+        font-size: 34px;
+    }
+
+    p.para-2-sec-10-decor {
+        font-size: 16px;
+    }
+
+    .home-decor-sec-10-right-col-1-para p {
+        font-size: 18px;
+    }
+
+    h4.heading-4-sec-11 {
+        font-size: 43px;
+    }
+
+    p.why-sec-11 {
+        font-size: 32px;
+    }
+
+    section.home-decor-sec-11 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    h4.heading-4-sec-13 {
+        font-size: 40px;
+    }
+
+    .number {
+        font-size: 184px;
+        left: -74px;
+        bottom: -185px;
+    }
+
+    section.home-decor-sec-13 {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    h4.sec-logos-top-h4 {
+        font-size: 40px;
+    }
+
+    section.logos {
+        padding: 60px 0px 60px 0px;
+    }
+
+    h4.counter-head-4 {
+        font-size: 40px;
+    }
+
+    p.counter-para {
+        font-size: 34px;
+    }
+
+    p.counter-count-k {
+        font-size: 43px;
+    }
+
+    p.counter-count-percentages {
+        font-size: 43px;
+    }
+
+    p.counter-count-k {
+        font-size: 43px;
+        margin-bottom: 0px;
+    }
+
+    .count-up h3 {
+        font-size: 20px;
+    }
+
+    p.counter-count-percentages {
+        font-size: 43px;
+        margin-bottom: 0px;
+    }
+
+    p.counter-count {
+        font-size: 43px;
+        margin-bottom: 0px;
+    }
+
+    h4.sec-16-heading-4 {
+        font-size: 40px;
+    }
+
+    button.btn.btn-link {
+        font-size: 20px;
+    }
+
+    .ecommerce-platform-h4 h4 {
+        font-size: 40px;
+    }
+
+    .ecommerce-platform-para-1 p {
+        font-size: 34px;
+    }
+
+    .top-txt p {
+        font-weight: 500;
+    }
+
+    .footer-heading p {
+        font-weight: 500;
+    }
+
+    ul.footer-list li {
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    p.sec-19-p-1 {
+        font-weight: 400;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .item.first-carousels img {
+        width: 100%;
+    }
+    section.logos-mobile-responsive {
+        background-color: #F2F5F7;
+        padding: 60px 0px 60px 0px;
+        display: block;
+    }
+ 
+    section.logos {
+       display: none;
+    }
+    .home-decor-sec-1-ryt-heading-4 h4 {
+        font-size: 37px;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 p {
+        font-size: 24px;
+    }
+
+    p.item-p-1 {
+        font-size: 19px;
+    }
+
+    .home-decor-sec-3-left-imgs {
+        margin-bottom: 60px;
+    }
+
+    .home-decor-sec-3-ryt-txts-main {
+        text-align: center;
+    }
+
+    h4.heading-4-sec-4 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .tec-imgs-sec-4-ryt::before {
+        display: none;
+    }
+
+    .left-sec-4-main {
+        margin-bottom: 50px;
+    }
+
+    .tec-sec-4-main {
+        margin: auto;
+        text-align: center;
+    }
+
+    h4.sec-5-heading {
+        font-size: 36px;
+    }
+
+    p.sec-5-p-top {
+        font-size: 16px;
+        margin-bottom: 26px;
+    }
+
+    ul.sec-5-left-list li {
+        font-size: 17px;
+        line-height: 21px;
+        text-align: center;
+    }
+
+    .sec-5-img img {
+        margin: 30px 0px 30px 0px;
+        width: 80%;
+    }
+
+    .row.sec-5 {
+        justify-content: center;
+        text-align: center;
+    }
+
+    ul.sec-5-ryt-list li {
+        font-size: 17px;
+        line-height: 21px;
+        text-align: center;
+    }
+
+    p.sec-10-p-bottom {
+        font-size: 16px;
+    }
+
+    section.home-decor-sec-5-mobile-res {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    .beauty-sec-left {
+        text-align: center;
+    }
+
+    .beauty-btn {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    h3.heading-3-sec-7 {
+        font-size: 22px;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    p.para-black-sec-7 {
+        font-size: 14px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    p.para-gray-sec-7 {
+        font-size: 14px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    .home-decor-sec-7-ryt-btn {
+        text-align: center;
+    }
+
+    h4.heading-4-sec-8 {
+        font-size: 37px;
+    }
+
+    p.para-gray-sec-cards {
+        font-size: 13px;
+        min-height: 222px;
+    }
+
+    .beauty-2-sec-left h4 {
+        font-size: 33px;
+    }
+
+    .beauty-2-sec-left p {
+        font-size: 21px;
+    }
+
+    .beauty-2-sec-left {
+        text-align: center;
+    }
+
+    h4.haeding-4-sec-10 {
+        font-size: 19px;
+        text-align: center;
+    }
+
+    .sec-10-top-text {
+        text-align: center;
+    }
+
+    .row.sec-10-home-decor {
+        justify-content: center;
+    }
+
+    .row.sec-10-row-1 {
+        margin-bottom: 40px;
+        justify-content: center;
+    }
+
+    h4.heading-4-sec-13 {
+        font-size: 31px;
+    }
+
+    .card-para p.para-gray {
+
+        min-height: 230px;
+    }
+
+    .number {
+        font-size: 158px;
+        left: -60px;
+        bottom: -156px;
+    }
+
+    p.sec-logos-p {
+        font-size: 34px;
+    }
+
+    h4.sec-logos-top-h4 {
+        font-size: 34px;
+    }
+
+    .row.sec-7 {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .item.first-carousels {
+        max-height: 98px;
+        min-width: 175px;
+    }
+
+    h4.sec-16-heading-4 {
+        font-size: 37px;
+        margin-bottom: 20px;
+    }
+
+    .ecommerce-platform-h4 h4 {
+        font-size: 29px;
+        margin-top: 11px;
+    }
+
+    .ecommerce-platform-para-1 p {
+        font-size: 31px;
+    }
+
+    section.ecommerce-platform {
+        padding: 40px 0px 49px 0px;
+    }
+
+    section.ecomm-sec-16 {
+        padding: 60px 0px 60px 0px;
+    }
+
+    .footer-heading {
+        margin-top: 20px;
+    }
+
+    .footer-heading p {
+        font-size: 26px;
+    }
+
+    p.footer-para-subscribe {
+        margin-bottom: -38px;
+    }
+
+    .list-num {
+        display: flex;
+        /* flex-direction: column; */
+        gap: 20px;
+    }
+
+    section.home-decor-sec-5 {
+        display: none;
+    }
+
+    section.home-decor-sec-5-mobile-res {
+        display: block;
+    }
+}
+
+@media (max-width: 767px) {
+    .item.first-carousels img {
+        width: 100%;
+    }
+    section.logos-mobile-responsive {
+        background-color: #F2F5F7;
+        padding: 60px 0px 60px 0px;
+        display: block;
+    }
+ 
+    section.logos {
+       display: none;
+    }
+    .sec-5-img img {
+        margin: 30px 0px 30px 0px;
+        width: 80%;
+    }
+
+    section.home-decor-sec-5 {
+        display: none;
+    }
+
+    section.home-decor-sec-5-mobile-res {
+        display: block;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 p {
+        font-size: 20px;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 h4 {
+        font-size: 35px;
+    }
+
+    span.sec-1-span-2 {
+        font-size: 23px;
+    }
+
+    h2.carousel-heading {
+        font-size: 36px;
+    }
+
+    p.carousels-p {
+        font-size: 30px;
+    }
+
+    p.item-p-1 {
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    .row.sec-3 {
+        justify-content: center;
+    }
+
+    h3.heading-3-sec-3 {
+        font-size: 40px;
+    }
+
+    .home-decor-sec-3-ryt-txts-heading-3 p {
+        font-size: 21px;
+        font-weight: 500;
+    }
+
+    p.para-black-sec-3 {
+        font-size: 14px;
+    }
+
+    p.para-gray-sec-3 {
+        font-size: 14px;
+    }
+
+    button#header-btn-started-2nd {
+        padding: 6px 26px 6px 26px;
+        font-size: 18px;
+    }
+
+    h4.heading-4-sec-4 {
+        font-size: 37px;
+    }
+
+    .left-sec-4-main {
+        justify-content: center;
+    }
+
+    h4.sec-5-heading {
+        font-size: 27px;
+    }
+
+    .beauty-sec-left h4 {
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 44px;
+    }
+
+    .beauty-sec-left p {
+        font-size: 18px;
+        margin-top: 17px;
+    }
+
+    h4.heading-4-sec-8 {
+        font-size: 28px;
+    }
+
+    p.why-sec-8 {
+        font-size: 31px;
+    }
+
+    p.para-gray-sec-cards {
+        font-size: 14px;
+        min-height: 158px;
+    }
+
+    .beauty-2-sec-left h4 {
+        font-size: 31px;
+    }
+
+    .beauty-2-sec-left p {
+        font-size: 19px;
+    }
+
+    .beauty-btn {
+        margin-top: 3px;
+    }
+
+    section.beauty_personal-care-2 {
+        padding: 40px 0px 45px 0px;
+    }
+
+    h4.haeding-4-sec-10 {
+        margin-top: 20px;
+    }
+
+    p.why-sec-11 {
+        font-size: 28px;
+    }
+
+    h4.heading-4-sec-11 {
+        font-size: 40px;
+    }
+
+    .beauty-sec-left h4 {
+        font-size: 25px;
+    }
+
+    .beauty-sec-left p {
+        font-size: 18px;
+        margin-top: 4px;
+        margin-bottom: 20px;
+    }
+
+    h4.heading-4-sec-13 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+
+    .card-para p.para-gray {
+        min-height: 193px;
+    }
+
+    .number {
+        font-size: 194px;
+        left: -83px;
+        bottom: -203px;
+    }
+
+    .item.first-carousels {
+        max-height: 98px;
+        min-width: 124px;
+    }
+
+    .item.first-carousels img {
+        width: 151%;
+    }
+
+    p.counter-para {
+        font-size: 28px;
+    }
+
+    h4.counter-head-4 {
+        font-size: 36px;
+    }
+
+    p.counter-count-k {
+        font-size: 40px;
+    }
+
+    .counter-count-k::after {
+        font-size: 37px;
+    }
+
+    p.counter-count-percentages {
+        font-size: 40px;
+    }
+
+    .counter-count-percentages::after {
+        font-size: 37px;
+    }
+
+    p.counter-count {
+        font-size: 40px;
+    }
+
+    .counter-count::after {
+        font-size: 37px;
+    }
+
+    h4.sec-16-heading-4 {
+        font-size: 29px;
+        margin-bottom: 9px;
+    }
+
+    button.btn.btn-link {
+        font-size: 15px;
+    }
+
+    .ecommerce-platform-h4 h4 {
+        font-size: 23px;
+    }
+
+    .ecommerce-platform-para-1 p {
+        font-size: 28px;
+    }
+
+    .ecommerce-platform-h4 h4 {
+        font-size: 23px;
+        margin-top: 2px;
+    }
+
+    .ecommerce-platform-btn-main {
+        margin-top: 32px;
+    }
+
+    .top-txt p {
+        font-weight: 400;
+        font-size: 14px;
+        margin-top: 14px;
+    }
+
+    ul.footer-list li {
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .footer-heading p {
+        font-size: 25px;
+    }
+
+    input.footer-input {
+        margin-left: 28px;
+    }
+
+    ul.sec-5-left-list li {
+        font-size: 17px;
+        text-align: center;
+    }
+
+    ul.sec-5-ryt-list li {
+        font-size: 17px;
+        line-height: 21px;
+    }
+
+    .row.sec-5 {
+        justify-content: center;
+    }
+
+    .sec-5-img {
+        margin: 25px 0px 25px 0px;
+    }
+
+    /* section.home-decor-sec-5-mobile-res {
+        margin: 80px 0px 80px 0px;
+    } */
+
+}
+
+@media (max-width: 576px) {
+    .home-decor-sec-1-ryt-heading-4 h4 {
+        font-size: 27px;
+        line-height: 36px;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 p {
+        font-size: 21px;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 {
+        margin-top: 38px;
+    }
+
+    .top-laptop-img img {
+        width: 60%;
+        margin-top: 30px;
+    }
+
+    .row.row-dtr {
+        text-align: center;
+    }
+
+    p.carousels-p {
+        font-size: 28px;
+    }
+
+    h2.carousel-heading {
+        font-size: 33px;
+    }
+
+    .home-decor-sec-3-left-imgs img {
+        width: 60%;
+    }
+
+    .row.sec-3 {
+        text-align: center;
+    }
+
+    h3.heading-3-sec-3 {
+        font-size: 38px;
+    }
+
+    .home-decor-sec-3-ryt-txts-heading-3 p {
+        font-size: 20px;
+    }
+
+    p.para-black-sec-3 {
+        font-size: 15px;
+    }
+
+    p.para-gray-sec-3 {
+        font-size: 15px;
+    }
+
+    h4.heading-4-sec-4 {
+        font-size: 34px;
+    }
+
+    .tec-imgs-sec-4 img {
+        width: 100%;
+    }
+
+    .tec-sec-4-p p {
+        font-size: 15px;
+
+    }
+
+    .sec-5-img img {
+        width: 65%;
+    }
+
+    .beauty-sec-left h4 {
+        font-size: 21px;
+    }
+
+    .beauty-sec-left p {
+        font-size: 16px;
+    }
+
+    .home-decor-sec-7-left-imgs img {
+        width: 60%;
+    }
+
+    .row.sec-7 {
+        text-align: center;
+    }
+
+    p.para-black-sec-7 {
+        font-size: 15px;
+    }
+
+    p.para-gray-sec-7 {
+        font-size: 15px;
+    }
+
+    h5.heading-5 {
+        font-size: 20px;
+    }
+
+    .beauty-2-sec-left p {
+        font-size: 17px;
+    }
+
+    .home-decor-sec-10-left-img img {
+        width: 60%;
+    }
+
+    .row.sec-10-home-decor {
+        text-align: center;
+        margin: auto;
+    }
+
+    .home-decor-sec-10-left-img {
+        justify-content: center;
+    }
+
+    p.why-sec-11 {
+        font-size: 21px;
+    }
+
+    .card-img-2 img {
+        width: 60%;
+    }
+
+    .row.sec-11 {
+        text-align: center;
+    }
+
+    .card-box-sec-13 {
+        max-width: 511px;
+    }
+
+    .row.sec-13-1st-row {
+        margin: auto;
+    }
+
+    .item.first-carousels {
+        max-height: 70px;
+        min-width: 87px;
+    }
+
+    .item.first-carousels img {
+        width: 323%;
+    }
+
+    .footer-heading p {
+        text-align: center;
+    }
+
+    p.footer-para-subscribe {
+        text-align: center;
+    }
+
+    ul.footer-list-social {
+        justify-content: center;
+    }
+
+    ul.footer-list li {
+        text-align: center;
+    }
+
+    .img-txt {
+        justify-content: center;
+    }
+
+    .number {
+        display: none;
+    }
+    .item.first-carousels img {
+        width: 100%;
+    }
+    section.logos-mobile-responsive {
+        background-color: #F2F5F7;
+        padding: 60px 0px 60px 0px;
+        display: block;
+    }
+ 
+    section.logos {
+       display: none;
+    }
+
+}
+
+@media (max-width:360px) {
+    .top-main {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 h4 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+
+    .home-decor-sec-1-ryt-heading-4 p {
+        font-size: 18px;
+    }
+
+    h2.carousel-heading {
+        font-size: 30px;
+    }
+
+    p.item-p-1 {
+        font-size: 14px;
+    }
+
+    .tec-sec-4-p p {
+        font-size: 6px;
+    }
+
+    h4.heading-4-sec-4 {
+        font-size: 24px;
+    }
+
+    .tec-imgs-sec-4-ryt img {
+        width: 60%;
+    }
+
+    section.home-decor-sec-8 {
+        color: white;
+    }
+
+    .beauty-2-sec-left h4 {
+        font-size: 25px;
+        line-height: 31px;
+    }
+
+    h4.heading-4-sec-11 {
+        font-size: 25px;
+        margin-bottom: 28px;
+    }
+
+    h4.heading-4-sec-13 {
+        font-size: 28px;
+    }
+
+    h4.sec-logos-top-h4 {
+        font-size: 23px;
+    }
+
+    h4.counter-head-4 {
+        font-size: 24px;
+    }
+
+    p.counter-para {
+        font-size: 23px;
+    }
+
+    p.counter-count-k {
+        font-size: 30px;
+    }
+    .counter-count-k::after {
+        font-size: 29px;
+    }
+    section.logos-mobile-responsive {
+        background-color: #F2F5F7;
+        padding: 60px 0px 60px 0px;
+    }
+    .item.first-carousels img {
+        width: 100%;
+    }
+    section.logos-mobile-responsive {
+        background-color: #F2F5F7;
+        padding: 60px 0px 60px 0px;
+        display: block;
+    }
+ 
+    section.logos {
+       display: none;
+    }
+
+}
