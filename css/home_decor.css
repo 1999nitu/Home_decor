@@ -305,7 +305,7 @@ section.home-decor-sec-4 {
     content: url('../images/tec-sec-4.svg');
     position: absolute;
     top: 110px;
-    right: 416px;
+    right: 298px;
 }
 
 h4.heading-4-sec-4 {
@@ -2316,6 +2316,10 @@ p.sec-19-p-2 {
         font-size: 27px;
         line-height: 36px;
     }
+    .top-main {
+   
+        margin-right: 28px;
+    }
 
     .home-decor-sec-1-ryt-heading-4 p {
         font-size: 21px;
@@ -2494,6 +2498,18 @@ p.sec-19-p-2 {
     }
 
 }
+
+
+@media (max-width: 390px) {
+    .home-decor-sec-1-ryt-heading-4 h4 {
+ 
+    }
+}
+
+
+
+
+
 
 @media (max-width:360px) {
     .top-main {
